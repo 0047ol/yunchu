@@ -1,8 +1,3 @@
-/*!
- * mdui 1.0.1 (https://mdui.org)
- * Copyright 2016-2020 zdhxiong
- * Licensed under MIT
- */
 (function (global, factory) {
   typeof exports === 'object' && typeof module !== 'undefined' ? module.exports = factory() :
   typeof define === 'function' && define.amd ? define(factory) :
